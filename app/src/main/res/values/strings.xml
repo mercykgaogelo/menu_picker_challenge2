@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pick time</string>
+    <string name="hello_world_pick_time">Hello World! Pick Time</string>
+    <string name="time_pick">Time</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
